@@ -2,7 +2,24 @@
     "name": "dablam-theme-dark",
     "displayName": "Dablam Dark",
     "description": "Dablam Theme Dark",
-    "version": "0.0.1",
+    "version": "0.1.0",
+    "publisher": "AbhijitRout",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/oyeabhijit/dablam-theme-dark"
+    },
+    "keywords": [
+        "theme",
+        "dablam theme",
+        "dablam dark theme",
+        "dablam-dark-theme",
+        "dark theme purple",
+        "dark theme ui",
+        "vs code dablam",
+        "vsc dablam theme",
+        "dablam dark",
+        "dablam"
+    ],
     "engines": {
         "vscode": "^1.56.0"
     },
