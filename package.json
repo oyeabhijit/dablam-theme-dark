@@ -4,6 +4,7 @@
     "description": "Dablam Theme Dark",
     "version": "0.1.0",
     "publisher": "AbhijitRout",
+    "icon": "https://raw.githubusercontent.com/oyeabhijit/dablam-theme-dark/master/readme-image/dablam-logo-2.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/oyeabhijit/dablam-theme-dark"
